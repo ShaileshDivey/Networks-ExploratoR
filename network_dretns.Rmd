@@ -1,0 +1,12 @@
+---
+title: "Daily Stock Returns"
+author: "Shailesh Divey"
+date: "02/15/2021"
+output: html_notebook
+---
+
+
+```{r}
+plot(cars)
+```
+
